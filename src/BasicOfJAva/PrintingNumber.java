@@ -6,5 +6,6 @@ public class PrintingNumber {
         System.out.println(4);
         System.out.println(4+5);
         System.out.println("4+5");
+        System.out.println("HELLO");
     }
 }
