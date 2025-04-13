@@ -6,6 +6,7 @@ public class SumOfTwoNumberUsing_Input {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number:");
         int num1 = sc.nextInt();
+        System.out.println("Enter Second Number:");
         int num2 = sc.nextInt();
 
         int Sum = num1+num2;
