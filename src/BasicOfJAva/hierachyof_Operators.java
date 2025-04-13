@@ -1,6 +1,6 @@
 package BasicOfJAva;
 
-public class hierachyof_Operators {
+public class hierachyof_Operators  {
     public static void main(String[] args) {
         int i=2,j=3,k,l;
         double a,b;
